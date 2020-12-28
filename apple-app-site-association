@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "5K99777NES.com.projects.universalLinksDemoApp",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
